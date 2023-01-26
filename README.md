@@ -1,6 +1,8 @@
 Страница интернет-магазина
 
 [![Build status](https://ci.appveyor.com/api/projects/status/qi3kj4snv5wqud6a?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-1-2-classcomponent)
+
+https://helgaroosh.github.io/Ra_1_2_classcomponent/
 ===
 
 Необходимо создать React-компонент `ShopItemClass` (class-based компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
